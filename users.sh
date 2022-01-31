@@ -10,5 +10,6 @@ create a directory mkdir <anyfile>
 git init   --> go the director you have created and give this command
 then again go to the director you have created
 	create files
-
+-----------------
+updated
 
