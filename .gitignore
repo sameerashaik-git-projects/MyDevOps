@@ -1,0 +1,6 @@
+#files to be ignore
+ignorefile.sh
+ignorefile2.sh
+#directories to be ignored
+
+/ignore
