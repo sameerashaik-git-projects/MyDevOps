@@ -5,7 +5,7 @@ Now lets try with the file after the commit..
 After commiting file as there are nothing to commit...it wont be included to the stash
 
 
-SO ONLY FILES THAT ARE MODIFIED AFTER COMMITING AND THE FILES IN STAGING AREA ARE TO BE INCLUDED IN STASH.The file that is included in the stash from st6aging area is lost..
+SO ONLY FILES THAT ARE MODIFIED AFTER pushing AND THE FILES IN STAGING AREA ARE TO BE INCLUDED IN STASH.
 
 
-SO WE HAVE TO APPLY STASH ON ALREADY PUSHED FILES OR MODIFIED FILES DTS IT
+
